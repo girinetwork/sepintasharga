@@ -1163,7 +1163,7 @@ hr.theme-style-center::before {
 }
 
 .edu-list > li::after {
-	content: "\e6b7";
+	content: "\e63a";
     position: absolute;
     top: 0;left: -50px;
 	width: 50px;height: 50px;
